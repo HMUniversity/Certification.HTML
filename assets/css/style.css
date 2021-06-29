@@ -1,43 +1,46 @@
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14pt;
+}
 
-    p {
-        font-family: "Times New Roman", Times, serif;
-        font-size: 14pt;
-    }
+footer {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14pt;
+    margin-top: 30pt;
+    margin-bottom: 15pt;
+    text-align: center;
+}
 
-    footer {
-        font-family: "Times New Roman", Times, serif;
-        font-size: 14pt;
-        margin-top: 30pt;
-        margin-bottom: 15pt;
-        text-align: center;
-    }
+#mention {
+    font-size: 18pt;
+}
 
-    #mention {
-        font-size: 18pt;
-    }
+content {
+    text-align: center;
+}
 
-    content {
-        text-align: center;
-    }
+.left {
+    float: left;
+    width: 50%;
+    text-align: left;
+}
 
-    .left {
-        float: left;
-        width: 50%;
-        text-align: left;
-    }
-
-    .right {
-        margin-left: 50%;
-        text-align: right;
-    }
+.right {
+    margin-left: 50%;
+    text-align: right;
+}
 
 
-    .logo {
-        width: 30%;
-        max-width: 180px;
-    }
+.logo {
+    width: 30%;
+    max-width: 180px;
+}
 
-    body {
-        margin-left: 10%;
-        margin-right: 10%;
-    }
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.signature {
+    width: 60%;
+}
